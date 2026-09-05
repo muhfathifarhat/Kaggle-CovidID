@@ -1,28 +1,28 @@
-# COVID-19 Indonesia Analysis
+# US Flight Delay Analysis
 
-Project analisis data COVID-19 di Indonesia menggunakan dataset kasus harian untuk mengeksplorasi penyebaran kasus, tren waktu ke waktu, dan sebaran wilayah paling terdampak, sebagai bagian dari portofolio saya di bidang **Data Analysis**.
+Project analisis data keterlambatan penerbangan di Amerika Serikat untuk mengeksplorasi penyebab keterlambatan, tren dari tahun ke tahun, dan performa maskapai penerbangan, sebagai bagian dari portofolio saya di bidang **Data Analysis**.
 
-**Dashboard:** *https://public.tableau.com/app/profile/muhamad.fathi.farhat/viz/Covid19_17851657217040/Dashboard1*
+**Dashboard:** *(tambahkan link dashboard Anda di sini)*
 
 ---
 
 ## Latar Belakang & Tujuan
 
-Pandemi COVID-19 menghasilkan data kasus harian dalam jumlah besar di seluruh wilayah Indonesia. Project ini bertujuan untuk menjawab beberapa pertanyaan analisis, seperti:
+Keterlambatan penerbangan dapat disebabkan oleh berbagai faktor, mulai dari maskapai, cuaca, hingga sistem navigasi udara. Project ini bertujuan untuk menjawab beberapa pertanyaan analisis, seperti:
 
-- Berapa total kasus, kematian, dan kesembuhan COVID-19 di Indonesia secara keseluruhan?
-- Provinsi mana yang paling banyak terdampak kasus COVID-19?
-- Bagaimana sebaran kasus COVID-19 secara geografis di tiap wilayah Indonesia?
-- Kapan periode lonjakan kasus (gelombang) tertinggi terjadi?
-- Bagaimana tren kasus baru dan kematian dari waktu ke waktu?
+- Apa penyebab utama keterlambatan penerbangan?
+- Bagaimana tren persentase keterlambatan penerbangan dari tahun ke tahun?
+- Maskapai mana yang paling sering mengalami keterlambatan?
+- Bagaimana sebaran keterlambatan penerbangan secara geografis di wilayah Amerika Serikat?
 
 ---
 
 ## Dataset yang Digunakan
 
 - **Sumber:** *Kaggle*
-- **Isi data:** Date, ISO ID, Location, Location Level, New Cases, New Deaths, New Recovered, New Active Cases, Total Cases, Total Deaths, Total Recovered
-- **Periode data:** Maret 2020 – September 2022
+- **Isi data:** year, month, date, carrier, carrier_name, airport, city, state, airport_name, arr_delay, carrier_delay, weather_delay, nas_delay, security_delay, late_aircraft_delay
+- **Periode data:** 2017 – 2022
+- **Jumlah baris:** 100.000+
 
 ---
 
