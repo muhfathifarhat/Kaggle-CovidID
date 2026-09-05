@@ -2,7 +2,7 @@
 
 Project analisis data keterlambatan penerbangan di Amerika Serikat untuk mengeksplorasi penyebab keterlambatan, tren dari tahun ke tahun, dan performa maskapai penerbangan, sebagai bagian dari portofolio saya di bidang **Data Analysis**.
 
-**Dashboard:** *(tambahkan link dashboard Anda di sini)*
+**Dashboard:** *https://public.tableau.com/app/profile/muhamad.fathi.farhat/viz/DashboardFlightDelay_17846504364340/Dashboard1*
 
 ---
 
